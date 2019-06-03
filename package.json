@@ -1,0 +1,25 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "https://joannaj79.github.io/indexhtml.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannaj79/learning-git-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannaj79/learning-git-2/issues"
+  },
+  "homepage": "https://github.com/joannaj79/learning-git-2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.5",
+    "nu-html-checker": "^0.1.0"
+  }
+}
